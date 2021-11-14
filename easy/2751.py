@@ -22,7 +22,8 @@ def mergesort(list_):
     b += right[j:]
 
     return b
-
+    
+# for reducing time use sys' in,out
 n = int(sys.stdin.readline())
 list_=[]
 for _ in range(n):
