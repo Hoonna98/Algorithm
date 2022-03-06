@@ -10,4 +10,5 @@ for item in ap:
         cnt = cnt + int(item/c)
 print(cnt)
 
+#
 # 첫 감독관 b를 뺏을 때 0보다 작게 되면 아무런 작업을 하지 않아야한다.
